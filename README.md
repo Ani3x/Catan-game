@@ -7,7 +7,7 @@ Kod, który umożliwia granie w grę planszową Catan. Docelowo będzie możliwo
       - wioska +1 punkt
       - miasto +1 punkt (same miasto daje nam 2x więcej zasobów i jest warte o 1 punkt więcej niż wioska)
       - najdłuższa droga +2 punkty
-  - podczas fazy początkowej budowanie nie kusztuje nic
+  - podczas fazy początkowej budowanie nie kosztuje nic
 
 # Ważne
 Jak chce się zmienić ilość graczy, to trzeba w constants zmienić ilość graczy (od 1 do 4)
